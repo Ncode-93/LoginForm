@@ -1,6 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Creating a Login Form with Name, Country and Phone Number
+- Phone number automatically detects country code using Country Selected
+- Showing country flag when a country is selected
 
 ## Available Scripts
 
